@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Block low-value pages from crawling
+Disallow: /thank-you.html
+Disallow: /privacy-policy.html
+
+# Sitemap location
+Sitemap: https://www.douglasalandetailing.com/sitemap.xml
